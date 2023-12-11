@@ -1,1 +1,2 @@
-Changed Text File 1
+Changed Text File 1.
+Changes in Text File 1.
