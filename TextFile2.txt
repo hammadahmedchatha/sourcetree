@@ -2,3 +2,4 @@ Second File is added.
 This is an important bug fix.
 Another bug fix.
 User 2 makes a change to file 2.
+Adding a new feature.
